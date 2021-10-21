@@ -1,6 +1,6 @@
 {
-    "name": "klinik",
-    "short_name": "klinik",
+    "name": "Klinik Makmur",
+    "short_name": "Klinik Makmur",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
